@@ -1,10 +1,6 @@
 *{
     margin: 0;
-    /* font-family: Arial, Helvetica, sans-serif; */
-    /* font-family: Amazon Ember; */ 
     font-family: 'Amazon Ember';
-    /* font-style: normal; */
-    /* font-weight: 400; */
     src: local('Amazon Ember'), url('https://fonts.cdnfonts.com/s/67521/Amazon Ember.woff') format('woff');
     border: border-box;
 }
@@ -12,7 +8,6 @@
 .navbar{
     background-color: #0f1111;
     height: 60px;
-    /* width:100vw; */
     color: white;
     display:flex;
     align-items: center;
@@ -20,7 +15,6 @@
     background-size: cover;
 }
 
-  /* @mediah)   */
 
 .navlogo{
    display: inline-block;
@@ -167,9 +161,7 @@
 
 #cart-p1{
     font-size: 0.9rem;
-    /* display: flex;
-    justify-content: end;
-    align-items: end; */
+
 }
 
 .cart{
@@ -254,7 +246,6 @@
 .img1{
    padding: 14px;
    height: 305px;
-   /* width: 97%; */
    background-size: cover;
 }
 
@@ -282,7 +273,7 @@
 }
 
 #hr{
-    /* padding-top: 10px; */
+
     margin-top: 20px;
     margin-bottom: 10px;
     margin-left: 14px;
@@ -295,17 +286,9 @@
  .box{
       display: flex;
       
-      /* width: 100vw; */
       height: 410px;
       
  }
-
- /* @media( max-width:320px)
- {
-    .box{
-        background-size: cover;
-    }
- } */
 
 /* ********box1****** */
 
